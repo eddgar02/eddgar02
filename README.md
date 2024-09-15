@@ -1,4 +1,4 @@
-<h1 align="center">Hello there  I'm Edgar Lara Sanchez</h1>
+<h1 align="center">Hello there 👋 I'm Edgar Lara Sanchez</h1>
 
 # 💫 About Me:
 I am graduating in December 2024 from the University of Texas at Dallas and I'm looking for a software development job.
