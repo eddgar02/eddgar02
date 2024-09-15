@@ -4,7 +4,7 @@
 I am graduating in December 2024 from the University of Texas at Dallas and I'm looking for a software development job.
 
 
-Check out my [personal website!]([https://erikc-portfolio.vercel.app/](https://edgarporfoliowebsite.netlify.app/))
+Check out my [personal website!]([[https://erikc-portfolio.vercel.app/](https://edgarporfoliowebsite.netlify.app/)](https://edgarporfoliowebsite.netlify.app/))
 
 
 ## 🌐 Connect with me:
